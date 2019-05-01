@@ -1,0 +1,11 @@
+{
+    "editor.fontSize": 16,
+    "files.autoSave": "afterDelay",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.lineHeight": 30,
+    "git.autofetch": true,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "terminal.integrated.copyOnSelection": true
+}
