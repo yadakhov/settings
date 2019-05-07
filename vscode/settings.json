@@ -7,5 +7,10 @@
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
     "files.trimFinalNewlines": true,
-    "terminal.integrated.copyOnSelection": true
+    "terminal.integrated.copyOnSelection": true,
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "window.zoomLevel": 0,
+    "jshint.options": {
+        "esversion": 6
+    }
 }
